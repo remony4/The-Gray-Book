@@ -2,7 +2,7 @@
 
 #### Spread
 
-Spread is a name that we stole from vvvv. It is just a collection of items that is ready to be consumed. In other words: There is some memory in the computer that holds all the items. All the info is there. They can be read, the count is known, their values are known.
+The name is a vvvv creation and has been there since the beginning; it is just a collection of items that is ready to be consumed. In other words: There is some memory in the computer that holds all the items. All the info is there. They can be read, the count is known, their values are known.
 
 What's more though: A spread can't mutate. A spread coming from one data source can be fed to many data sinks and we can guarantee you that all data sinks will always access the same data.
 
